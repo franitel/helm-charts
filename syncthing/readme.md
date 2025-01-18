@@ -1,0 +1,1 @@
+chart to deploy syncthing
