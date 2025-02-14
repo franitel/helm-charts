@@ -10,7 +10,7 @@
 Helm must be installed and setup to your kubernetes cluster to use the charts. Refer to Helm's [documentation](https://helm.sh/docs) to get started. Once Helm has been set up correctly, add the repo as follows:
 
 ```sh
-helm repo add franintel https://charts.sarabsingh.com
+helm repo add franitel https://github.com/franitel/helm-charts
 ```
 
 If you had already added this repo earlier, run `helm repo update` to retrieve the latest versions of the packages.
