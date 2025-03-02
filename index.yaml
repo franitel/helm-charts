@@ -1,5 +1,29 @@
 apiVersion: v1
 entries:
+  cert-manager-webhook-duckdns:
+  - apiVersion: v1
+    appVersion: v1.2.3
+    created: "2025-03-02T06:49:57.077302154Z"
+    description: A Helm chart for cert manager webhook solver for ACME DNS01 challenge
+      via DuckDNS
+    digest: ac906130d0e20cf07a5016ea951d75574c0e6a7d32b676988f6ce8d97ca036ae
+    home: https://github.com/ebrianne/cert-manager-webhook-duckdns
+    icon: https://raw.githubusercontent.com/jetstack/cert-manager/master/logo/logo.png
+    keywords:
+    - cert-manager
+    - webhook
+    - letsencrypt
+    - tls
+    maintainers:
+    - email: eldwan35@gmail.com
+      name: Eldwan Brianne
+      url: https://ebrianne.technolab.duckdns.org
+    name: cert-manager-webhook-duckdns
+    sources:
+    - https://github.com/ebrianne/cert-manager-webhook-duckdns
+    urls:
+    - https://github.com/franitel/helm-charts/releases/download/cert-manager-webhook-duckdns-v1.2.3/cert-manager-webhook-duckdns-v1.2.3.tgz
+    version: v1.2.3
   ntfy:
   - apiVersion: v2
     appVersion: v2.6.2
@@ -31,4 +55,4 @@ entries:
     urls:
     - https://github.com/franitel/helm-charts/releases/download/syncthing-0.1.0/syncthing-0.1.0.tgz
     version: 0.1.0
-generated: "2025-01-18T22:57:49.199890211Z"
+generated: "2025-03-02T06:49:57.299193905Z"
