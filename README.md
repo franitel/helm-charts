@@ -4,6 +4,7 @@
 ## Charts
 - [ntfy](https://github.com/franitel/helm-charts/tree/main/charts/ntfy)
 - [syncthing](https://github.com/franitel/helm-charts/tree/main/charts/syncthing/)
+- [cert-manager-webhook-duckdns-v1.2.3](https://github.com/franitel/helm-charts/tree/main/charts/cert-manager-webhook-duckdns/) 
 
 
 
